@@ -37,7 +37,7 @@ Promises provide a simpler alternative for executing, composing, and managing as
 ## Specifications
 
 ### Day 1 & 2
-- [x] Complete the [Promises Course][promises-course] on Udacity
+- [ ] Complete the [Promises Course][promises-course] on Udacity
 
 ### Day 3 & 4
 - [ ] Exercises 1-13 in the [promise-it-wont-hurt-solutions][promise-it-wont-hurt-solutions] are complete and written to the appropriate file.
